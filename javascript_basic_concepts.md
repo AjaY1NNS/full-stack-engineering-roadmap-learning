@@ -5,6 +5,7 @@ Descibe about the variables and data types examples.
 #### [2. Operations](01_basics_concepts/02_opeations.js)
 Descibe about operations with examples.
 #### [3. Type Conversation](01_basics_concepts/03_type_conversion.js)
+About the type conversations
 #### [4. control flow](01_basics_concepts/04_control_flow.js)
 All about the control flow statemts like if else, for, while, do while etc
 #### [5. Funcations](01_basics_concepts/05_funcations.js)
