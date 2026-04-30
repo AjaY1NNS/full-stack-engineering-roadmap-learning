@@ -7,3 +7,5 @@ In this we are looked out the bascic progragmaing and core concepts of javascrip
 ## [2. Javascript Core Concepts](javascript_core_concepts.md)
 Here we learn about the core
 
+## [3. TypeScript Learning (Basic → Advanced)](typescript_learning.md)
+Here we learn about the core
